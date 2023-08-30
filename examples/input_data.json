@@ -1,0 +1,27 @@
+{
+  "car": {
+    "brand": "peugeot",
+    "model": "3008",
+    "year": 2022,
+    "speed": 215.0,
+    "hybrid": true,
+    "tank": null,
+    "features": {
+      "climate control": true,
+      "euro 6": true
+    }
+  },
+  "engine": {
+    "type": [
+      "hybrid",
+      "diesel",
+      "petrol",
+      "electric"
+    ],
+    "power": [
+      2,
+      3,
+      4
+    ]
+  }
+}
